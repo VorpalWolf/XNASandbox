@@ -1,0 +1,7 @@
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\bin\x86\Debug\XNAKinectCatalog.exe
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\bin\x86\Debug\XNAKinectCatalog.pdb
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\obj\x86\Debug\XNAKinectCatalog.exe
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\obj\x86\Debug\XNAKinectCatalog.pdb
+C:\Users\Soki\Dropbox\Development\VS 2K10\Projects\XNAKinectCatalog\XNAKinectCatalog\XNAKinectCatalog\bin\x86\Debug\Content\Textures\HL.xnb
