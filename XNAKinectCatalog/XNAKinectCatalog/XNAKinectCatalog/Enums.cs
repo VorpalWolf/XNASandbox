@@ -11,7 +11,7 @@ namespace XNAKinectCatalog
         Type2D
     };
 
-    public enum TextWriterEffect
+    public enum TextWriterEffect 
     {
         Typewriter,
         Block,
